@@ -1,7 +1,7 @@
 {
   "name": "book-listing-server",
   "version": "1.0.0",
-  "description": "A simple book listing server built with Express.js",
+  "description": "A simple book listing server built with Express.js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
