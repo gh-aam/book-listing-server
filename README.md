@@ -11,13 +11,12 @@ A simple Express.js server that provides a list of nature-themed books with supp
 
 ## Installation
 ```bash
-npm install book-listing-server
-```
-
-If you are using this as a standalone project, clone the repository and install dependencies:
-```bash
 git clone https://github.com/gh-aam/book-listing-server.git
+```
+```bash
 cd book-listing-server
+```
+```bash
 npm install
 ```
 
