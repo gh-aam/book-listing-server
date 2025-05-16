@@ -1,6 +1,6 @@
 {
   "name": "book-listing-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple book listing server built with Express.js.",
   "main": "index.js",
   "scripts": {
