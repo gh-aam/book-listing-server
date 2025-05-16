@@ -1,0 +1,33 @@
+{
+  "name": "book-listing-server",
+  "version": "1.0.0",
+  "description": "A simple book listing server built with Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh-aam/book-listing-server.git"
+  },
+  "keywords": [
+    "book",
+    "nature",
+    "server",
+    "express.js"
+  ],
+  "author": "Abdullah Al Mamun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gh-aam/book-listing-server/issues"
+  },
+  "homepage": "https://github.com/gh-aam/book-listing-server#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
